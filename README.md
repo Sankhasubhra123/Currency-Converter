@@ -1,4 +1,5 @@
 💱 Currency Converter App
+
 A lightweight and interactive Currency Converter built using Streamlit, leveraging real-time exchange rates from the Frankfurter API. Whether you're planning a trip, trading internationally, or just curious, this tool provides quick and accurate currency conversions on the fly!
 
 🚀 Features
